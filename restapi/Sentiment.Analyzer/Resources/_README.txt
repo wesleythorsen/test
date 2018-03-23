@@ -1,0 +1,1 @@
+Clone and compile this project: https://github.com/facebookresearch/fastText . Name it "fastText.exe". Put the executable in this folder.
